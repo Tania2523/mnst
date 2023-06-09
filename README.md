@@ -36,9 +36,10 @@ To start the service using console:
 
 ### Test execution
 
-The 5 end-to-end tests that were specified have been developed. In order to verify its correct execution it is necessary:
+The 5 end-to-end tests that were specified have been developed using Cucumber. In order to verify its correct execution it is necessary:
 
 1 - Start the application using console (as explained in the previous point): 'mvn spring-boot:run'
+
 2 - In other console window, in the project path execute:
 
 ```shell
